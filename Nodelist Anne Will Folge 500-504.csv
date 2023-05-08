@@ -1,0 +1,30 @@
+id,name,party,sector,type
+500,Folge 500,KEINE,NA,NA
+UVDL,Ursula von der Leyen,CDU,Politik,1
+LK,Lars Klingbeil,SPD,Politik,1
+NR,Norbert Röttgen,CDU,Politik,1
+SW,Sahra Wagenknecht,LINKE,Politik,1
+CS,Constanze Stelzenmüller,KEINE,Journalismus,2
+501,Folge 501,KEINE,NA,NA
+CL,Christian Lindner,FDP,Politik,1
+NR,Norbert Röttgen,CDU,Politik,1
+KS,Karl Schlögel,KEINE,Wissenschaft,1
+LM,Ljudmyla Melnyk,KEINE,Wissenschaft,2
+KD,Kristina Dunz,KEINE,Journalismus,2
+EL,Eglis Levits,KEINE,Politik,1
+502,Folge 502,KEINE,NA,1
+AB,Annalena Baerbock,GRUENE,Politik,1
+FT,Frans Timmermans,KEINE,Politik,2
+AM,Andrij Melnyk,KEINE,Politik,1
+AGL,Alexander Graf Lambsdorff,FDP,Politik,1
+ER,Egon Ramms,KEINE,Military,1
+503,Folge 503,KEINE,NA,1
+RH,Robert Habeck,GRUENE,Politik,1
+CM,Claudia Major,KEINE,Wissenschaft,2
+KP,Katja Petrowskaja,KEINE,Journalismus,1
+RK,Roderich Kiesewetter,CDU,Politik,1
+504,Folge 504,KEINE,NA,1
+CLB,Christine Lambrecht,SPD,Military,1
+SB,Stefanie Babst,KEINE,Politik,2
+CH,Christoph Heusgen,KEINE,Military,1
+MW,Marina Weisband,KEINE,Journalismus,1
